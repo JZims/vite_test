@@ -7,15 +7,16 @@ import NewLink from './NewLink'
 function App() {
   const [count, setCount] = useState(0)
 
-  
-
   console.log("Suh")
 
   return (
     <div className="App">
+{/*       
       <LinkedArticles/>
       <NewArticle/>
-      <NewLink />
+      <NewLink /> 
+*/ }
+
     </div>
   )
 }
