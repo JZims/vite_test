@@ -1,5 +1,5 @@
 node_modules
-
-
+src/vite-env.d.ts
+.env
 tsconfig.json
 vite.config.ts
