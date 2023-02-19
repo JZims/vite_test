@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import { KApp } from '@kustomer/apps-server-sdk'
 import React from 'react'
 import '../App.css'
 import LinkedArticles from './LinkedArticles'
